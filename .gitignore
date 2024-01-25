@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.html
 archive
+**/.DS_Store
+*.idea/**
